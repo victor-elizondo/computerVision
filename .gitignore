@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+
+# Datasets
+*.csv
+
+# Files with credentials
+
+#facebook_config.yaml
+#googleads_config.yaml
+#targeting-app_service-account.json
