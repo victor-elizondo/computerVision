@@ -1,0 +1,1 @@
+## This repo has the objective to test and try some computer vision libraries like OpenCV and YOLO
