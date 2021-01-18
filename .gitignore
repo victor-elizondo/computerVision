@@ -5,7 +5,7 @@ __pycache__/
 *.csv
 
 # Files with credentials
-
+.env
 #facebook_config.yaml
 #googleads_config.yaml
 #targeting-app_service-account.json
